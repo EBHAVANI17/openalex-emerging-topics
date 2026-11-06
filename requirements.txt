@@ -1,0 +1,5 @@
+streamlit
+fastembed
+pandas
+pyarrow
+numpy
