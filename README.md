@@ -3,7 +3,7 @@
 Semantic search and topic-trend analysis over **128,795 OpenAlex Computer Science papers (2019-2026)**.
 The data pipeline is built with **Ray Data** and runs on a free Google Colab T4.
 
-**Live demo:** [PASTE YOUR STREAMLIT LINK HERE]
+**Live demo:** https://openalex-emerging-topics-fobummg93hfa25yvnh9zpj.streamlit.app
 
 ![Search: students using ChatGPT](search_chatgpt.png)
 
